@@ -1,3 +1,3 @@
 # Experience
 
-2022   MCM problem C
+2022/2   MCM problem C
